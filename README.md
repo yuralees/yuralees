@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/YURALEE-006600?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIUX DESGINER-006600?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
