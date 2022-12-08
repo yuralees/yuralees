@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/YRUALEE-#006600?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/YRUALEE-006600?style=flat-square&logo=firebase&logoColor=white"/>
