@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/YURALEE-006600?style=flat-square&logo=GitHub Sponsors&logoColor=white"/><img src="https://img.shields.io/badge/-006600?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
+<img src="https://img.shields.io/badge/-006600?style=flat-square&logo=GitHub Sponsors&logoColor=white"/><img src="https://img.shields.io/badge/YURALEE-006600?style=flat-square&logo=s&logoColor=white"/><img src="https://img.shields.io/badge/-006600?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/UIUX DESIGNER-A81C7D?style=flat-square&logo=&logoColor=white"/>
